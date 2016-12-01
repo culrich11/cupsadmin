@@ -1,0 +1,15 @@
+{
+	"appname": "cupsadmin",
+	"scope": "",
+	"clientid": "C2741F29-6890-4EA9-9A31-9A81FD115CCA",
+	"buyerid": "cafebiba",
+	"catalogid": "cafebiba",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
