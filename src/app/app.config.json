@@ -1,6 +1,6 @@
 {
 	"appname": "cupsadmin",
-	"scope": "",
+	"scope": "FullAccess",
 	"clientid": "C2741F29-6890-4EA9-9A31-9A81FD115CCA",
 	"buyerid": "cafebiba",
 	"catalogid": "cafebiba",
